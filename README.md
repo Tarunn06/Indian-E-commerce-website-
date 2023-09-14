@@ -73,9 +73,7 @@ We welcome contributions to improve this project. If you'd like to contribute, p
 4. Push your branch to your forked repository.
 5. Create a pull request with a clear explanation of your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ---
 
